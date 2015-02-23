@@ -1,0 +1,17 @@
+package combatSystem;
+
+public enum AttackTypes{
+	VOID,
+	
+	RANGE,
+	
+	LIGHT_MAGIC,
+	DARK_MAGIC,
+	FIRE_MAGIC,
+	EARTH_MAGIC,
+	WIND_MAGIC,
+	WATER_MAGIC,
+	
+	LIGHT_MEELEE,
+	HEAVY_MEELEE;
+}

@@ -1,0 +1,19 @@
+Back Arrow:
+x: 118, y: 143; x:95, y:143; x:118, y:121; x:95, y:121
+
+Forward Arrow:
+x: 268, y:143; x: 292, y: 143; x:268, y:121; x:143, y: 121
+
+Inventory Dividers:
+x:346, y:724; x:1275, y:83
+1, y:644
+2, y:564
+3, y:484
+4, y:404
+5, y:324
+6, y:244
+7, y:164
+
+Action buttons:
+Drop, x: 150, y: 295; X: 235, y:280
+Use/Equip, x: 150, y: 280, x: 295, y: 260
